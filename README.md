@@ -2,6 +2,11 @@
 
 Proyecto React con Vite para el desafío de aprendizaje **Pizzería Mamma Mía**.
 
+## VER ONLINE
+Puedes revisar el proyecto publicado en el siguiente enlace:
+
+[https://desafiolatam.sinapsolabs.cl/react_01_introduccion/](https://desafiolatam.sinapsolabs.cl/react_01_introduccion/)
+
 ## Qué incluye
 
 - `App.jsx` llama a `Navbar`, `Home` y `Footer`.
